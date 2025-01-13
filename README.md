@@ -91,5 +91,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 If you have any questions, feel free to reach out:
 
 - **Email:** diyorbektorabekov22@gmail.com
-- **GitHub:** [MrTorabekov](https://github.com/yourusername)
+- **GitHub:** [MrTorabekov](https://github.com/MrTorabekov)
 
